@@ -1,18 +1,23 @@
-
 .about-container {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
 }
 .about-img {
-        opacity: 1;
-        width: 50%;
-    }
+  opacity: 1;
+  width: 50%;
+}
 
-    .about-text-container {
-        width: 50%;
-        background-color: lightblue;
-        opacity: 0.4;
+.about-text-container {
+  width: 50%;
+  background: rgb(138, 192, 239, 0.4);;
+  display: flex;
+  justify-content: center;
+}
 
-    }
+h1{
+    font-family: "Permanent Marker", cursive;
+    font-size: 52px;
+    margin-top: 100px;
+    color: black;
+}
