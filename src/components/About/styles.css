@@ -1,0 +1,18 @@
+
+.about-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.about-img {
+        opacity: 1;
+        width: 50%;
+    }
+
+    .about-text-container {
+        width: 50%;
+        background-color: lightblue;
+        opacity: 0.4;
+
+    }

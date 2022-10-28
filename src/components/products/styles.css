@@ -1,0 +1,17 @@
+
+#tickets {
+    margin: 100px 0;
+    
+}
+
+.tickets-title {
+    font-family: "Permanent Marker", cursive;
+}
+
+.upcoming-title {
+    margin: 200px 0;
+    display: flex;
+justify-content: center;
+width: 100%;
+font-size: 45px;
+}
