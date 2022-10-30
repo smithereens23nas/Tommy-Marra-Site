@@ -2,7 +2,7 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
-  border: red solid 5px;
+  /* border: red solid 5px; */
   transform: translateY(-20%);
 }
 .about-img {
@@ -15,12 +15,15 @@
   background: rgb(138, 192, 239, 0.4);;
   display: flex;
   justify-content: center;
-  margin-top: 300px;
+  margin-top: 150px;
 }
 
 h1{
     font-family: "Permanent Marker", cursive;
     font-size: 52px;
-    margin-top: 100px;
     color: black;
+}
+
+.about-title {
+    margin-top: 50px;
 }

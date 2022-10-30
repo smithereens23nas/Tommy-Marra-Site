@@ -18,9 +18,7 @@ const Product = ({ product, onAddToCart }) => {
 console.log(product)
   return (
     <section id="tickets">
-    <div className="upcoming-title">
-        <h1 className="tickets-title">Upcoming Events</h1>
-    </div>
+    
     <Card className={classes.root}>
       <CardMedia
         className={classes.media}

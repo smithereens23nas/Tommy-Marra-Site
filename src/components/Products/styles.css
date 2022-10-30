@@ -7,9 +7,10 @@
 }
 
 .upcoming-title {
-  margin: 200px 0;
+  margin: 0;
   display: flex;
   justify-content: center;
   width: 100%;
   font-size: 45px;
+  /* outline: red solid 2px; */
 }
