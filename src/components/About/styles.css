@@ -2,6 +2,8 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
+  border: red solid 5px;
+  transform: translateY(-20%);
 }
 .about-img {
   opacity: 1;
@@ -13,6 +15,7 @@
   background: rgb(138, 192, 239, 0.4);;
   display: flex;
   justify-content: center;
+  margin-top: 300px;
 }
 
 h1{

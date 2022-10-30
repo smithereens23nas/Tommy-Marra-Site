@@ -10,6 +10,7 @@ html {
   overflow-x: hidden;
   /* outline: black solid 20px; */
   position: relative;
+  z-index: 3;
 }
 
 .btn-position {
@@ -33,7 +34,6 @@ html {
 .link-style:hover {
   color: white;
 }
-
 
 .cover-img-2 {
   /* outline: 10px solid blue; */
