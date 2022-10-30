@@ -6,7 +6,6 @@ const App = () => {
 const [products, setProducts] = useState([]);
 const [cart, setCart] = useState({})
 
-
 // const fetchCart = async () => {
 //   const response = await 
 // }
